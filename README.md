@@ -1,2 +1,3 @@
 # hello-world
-my 1st repo
+my first repository
+today is thursday
